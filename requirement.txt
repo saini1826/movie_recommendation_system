@@ -3,3 +3,5 @@ pandas
 re
 numpy
 requests
+joblib
+scikit-learn
